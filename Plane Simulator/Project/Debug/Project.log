@@ -1,0 +1,71 @@
+﻿  source.c
+c:\csci\3161\final project\project\project\source.c(53): warning C4305: “初始化”: 从“double”到“float”截断
+c:\csci\3161\final project\project\project\source.c(66): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\csci\3161\final project\project\project\source.c(67): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\csci\3161\final project\project\project\source.c(113): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+c:\csci\3161\final project\project\project\source.c(114): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+c:\csci\3161\final project\project\project\source.c(116): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+c:\csci\3161\final project\project\project\source.c(102): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\csci\3161\final project\project\project\source.c(103): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\csci\3161\final project\project\project\source.c(208): warning C4305: “+=”: 从“double”到“float”截断
+c:\csci\3161\final project\project\project\source.c(214): warning C4305: “-=”: 从“double”到“float”截断
+c:\csci\3161\final project\project\project\source.c(252): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\csci\3161\final project\project\project\source.c(254): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\csci\3161\final project\project\project\source.c(256): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\csci\3161\final project\project\project\source.c(261): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\csci\3161\final project\project\project\source.c(263): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\csci\3161\final project\project\project\source.c(265): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\csci\3161\final project\project\project\source.c(417): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\csci\3161\final project\project\project\source.c(418): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\csci\3161\final project\project\project\source.c(474): warning C4305: “函数”: 从“double”到“GLfloat”截断
+c:\csci\3161\final project\project\project\source.c(476): warning C4244: “函数”: 从“int”转换到“GLfloat”，可能丢失数据
+c:\csci\3161\final project\project\project\source.c(477): warning C4244: “函数”: 从“int”转换到“GLfloat”，可能丢失数据
+c:\csci\3161\final project\project\project\source.c(478): warning C4244: “函数”: 从“int”转换到“GLfloat”，可能丢失数据
+c:\csci\3161\final project\project\project\source.c(479): warning C4244: “函数”: 从“int”转换到“GLfloat”，可能丢失数据
+c:\csci\3161\final project\project\project\source.c(489): warning C4305: “函数”: 从“double”到“GLfloat”截断
+c:\csci\3161\final project\project\project\source.c(490): warning C4244: “函数”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\csci\3161\final project\project\project\source.c(490): warning C4305: “函数”: 从“double”到“GLfloat”截断
+c:\csci\3161\final project\project\project\source.c(495): warning C4305: “函数”: 从“double”到“GLfloat”截断
+c:\csci\3161\final project\project\project\source.c(496): warning C4244: “函数”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\csci\3161\final project\project\project\source.c(496): warning C4305: “函数”: 从“double”到“GLfloat”截断
+c:\csci\3161\final project\project\project\source.c(502): warning C4244: “函数”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\csci\3161\final project\project\project\source.c(520): warning C4305: “函数”: 从“double”到“GLfloat”截断
+c:\csci\3161\final project\project\project\source.c(517): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\csci\3161\final project\project\project\source.c(557): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\csci\3161\final project\project\project\source.c(733): warning C4244: “函数”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\csci\3161\final project\project\project\source.c(739): warning C4244: “函数”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\csci\3161\final project\project\project\source.c(755): warning C4244: “函数”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\csci\3161\final project\project\project\source.c(760): warning C4244: “函数”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\csci\3161\final project\project\project\source.c(781): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\csci\3161\final project\project\project\source.c(782): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\csci\3161\final project\project\project\source.c(794): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+c:\csci\3161\final project\project\project\source.c(798): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+c:\csci\3161\final project\project\project\source.c(802): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+c:\csci\3161\final project\project\project\source.c(806): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+c:\csci\3161\final project\project\project\source.c(818): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\csci\3161\final project\project\project\source.c(819): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\csci\3161\final project\project\project\source.c(831): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+c:\csci\3161\final project\project\project\source.c(835): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+c:\csci\3161\final project\project\project\source.c(839): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+c:\csci\3161\final project\project\project\source.c(843): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+c:\csci\3161\final project\project\project\source.c(855): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\csci\3161\final project\project\project\source.c(856): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\csci\3161\final project\project\project\source.c(868): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+c:\csci\3161\final project\project\project\source.c(872): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+c:\csci\3161\final project\project\project\source.c(876): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+c:\csci\3161\final project\project\project\source.c(880): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+c:\csci\3161\final project\project\project\source.c(904): warning C4244: “函数”: 从“int”转换到“GLfloat”，可能丢失数据
+c:\csci\3161\final project\project\project\source.c(906): warning C4244: “函数”: 从“int”转换到“GLfloat”，可能丢失数据
+c:\csci\3161\final project\project\project\source.c(907): warning C4305: “函数”: 从“double”到“GLfloat”截断
+c:\csci\3161\final project\project\project\source.c(905): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\csci\3161\final project\project\project\source.c(916): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\csci\3161\final project\project\project\source.c(917): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\csci\3161\final project\project\project\source.c(918): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\csci\3161\final project\project\project\source.c(932): warning C4047: “函数”:“char *const ”与“char *[20]”的间接级别不同
+c:\csci\3161\final project\project\project\source.c(932): warning C4024: “sprintf”: 形参和实参 1 的类型不同
+c:\csci\3161\final project\project\project\source.c(933): warning C4047: “函数”:“const unsigned char *”与“char *[20]”的间接级别不同
+c:\csci\3161\final project\project\project\source.c(933): warning C4024: “glutBitmapString”: 形参和实参 2 的类型不同
+c:\csci\3161\final project\project\project\source.c(948): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\csci\3161\final project\project\project\source.c(959): warning C4113: “void (__cdecl *)()”和“void (__cdecl *)(void)”的参数列表不同
+c:\csci\3161\final project\project\project\source.c(967): warning C4113: “void (__cdecl *)()”和“void (__cdecl *)(void)”的参数列表不同
+  Project.vcxproj -> C:\CSCI\3161\Final Project\Project\Debug\Project.exe
